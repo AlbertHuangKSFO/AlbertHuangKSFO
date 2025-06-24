@@ -175,7 +175,7 @@
 
 <div align="left">
 
-```mermaid
+```text
     2019-2023    : Bachelor's Degree - China Agricultural University
                  : Agricultural CV Researcher - China Agricultural University
     2022         : Data Analyst Intern - Pfizer China Medical Affairs
