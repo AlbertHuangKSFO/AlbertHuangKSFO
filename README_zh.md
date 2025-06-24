@@ -95,7 +95,7 @@
 
 ### 🛠️ 办公工具包
 
-[![Workplace Toolkit](https://github.com/AlbertHuangKSFO/workplace-toolkit/img/banner.png)](https://github.com/AlbertHuangKSFO/workplace-toolkit)
+[![Workplace Toolkit](https://github.com/AlbertHuangKSFO/workplace-toolkit/blob/main/img/banner.png)](https://github.com/AlbertHuangKSFO/workplace-toolkit)
 
 **AI 驱动的办公工具集合，提升效率、流畅沟通与艺术性拖延**
 

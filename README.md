@@ -95,7 +95,7 @@
 
 ### 🛠️ Workplace Toolkit
 
-[![Workplace Toolkit](https://github.com/AlbertHuangKSFO/workplace-toolkit/img/banner.png)](https://github.com/AlbertHuangKSFO/workplace-toolkit)
+[![Workplace Toolkit](https://github.com/AlbertHuangKSFO/workplace-toolkit/blob/main/img/banner.png)](https://github.com/AlbertHuangKSFO/workplace-toolkit)
 
 **AI-Powered Workplace Tools Collection for Enhanced Efficiency, Smoother Communication, and Artistic Procrastination**
 
