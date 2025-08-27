@@ -5,7 +5,7 @@
 
 <div align="left">
 <div align = "center">
-# 👋 Hi, I'm Albert Huang
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+Researcher;Junior+Software+Engineer;1%2B+Years+of+Experience;NYU+Computer+Science+Graduate" alt="Typing SVG" />
 <div>
